@@ -33,10 +33,10 @@ export default function modifyMap(viewer, options) {
 
 //调用
 // import modifyMap from './filterColor'
-modifyMap(viewer, {
-    //反色?
-    invertColor: true,
-    //滤镜值
-    filterRGB: [60, 145, 172],
-});
-viewer是什么不用我说了吧
+// modifyMap(viewer, {
+//     //反色?
+//     invertColor: true,
+//     //滤镜值
+//     filterRGB: [60, 145, 172],
+// });
+// viewer是什么不用我说了吧
