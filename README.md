@@ -33,4 +33,4 @@ modifyMap(viewer, {
 
 效果如图:
 
-![demo](.\demo.png)
+![demo](./demo.png)
